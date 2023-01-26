@@ -7,6 +7,5 @@ echo $file $action $path ;
         fi
     done
 rashmii
-rashmi
-rashmi
+rashmivcgf
 rashmiiijdwkcwjhcgjwc
