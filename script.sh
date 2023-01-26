@@ -6,3 +6,4 @@ echo $file $action $path ;
             mv $file $file_`date +"%m-%d-%y"`_$file”;
         fi
     done
+rashmii
