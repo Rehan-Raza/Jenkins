@@ -7,7 +7,7 @@ pipeline{
     stages{
         stage('Deploy to Remote') {
             steps{
-                sh 'scp -r ${new}/* azureuser@${staging_server}:var/www/html/emp-mng-sys/'
+                sh 'scp -r ${WORKSPACE}/* azureuser@${staging_server}:var/www/html/emp-mng-sys/'
             }
         }
     }
