@@ -6,9 +6,9 @@ pipeline{
 
     stages{
         stage('Deploy to Remote') {
-            steps{
+            //steps{
                 //sh 'scp ${WORKSPACE}/* '
-            }
+            //}
         }
     }
 }
