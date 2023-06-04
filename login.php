@@ -85,7 +85,7 @@ body{
 
 
 <div>
-<h2 class="text-white"><center><font size="10">Employee wManagement System</font></center></h2>
+<h2 class="text-white"><center><font size="10">EQQmployee wManagement System</font></center></h2>
 
 </div><br>
 
